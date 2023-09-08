@@ -31,7 +31,7 @@ body {
 .page .foto {
     flex-basis: 550px;
     position: relative;
-    background-color: #d32525;
+    background-color: #eee;
     border-radius: 275px;
     width: 550px;
     height: 550px;
