@@ -118,21 +118,23 @@ body {
  border-bottom:1px solid #d32525	
 }
 .btn{
+    display: inline-block;
 	color:#fff;
 	background-color:#d32525;
 	outline: none;
     border: 0;
     color: #fff;
-	padding:10px 20px;
+	padding:12px 24px;
 	text-transform:uppercase;
-	margin-top:50px;
+	margin-top: 50px;
 	border-radius:2px;
 	cursor:pointer;
 	position:relative;
 }
 .gonder-rat {
-  text-decoration: none;
-  color: #fff ;
+font-size: 13px;	
+text-decoration: none;
+ color: #fff ;
 }
 
 .input-container input:focus ~ label,
